@@ -18,7 +18,7 @@
 - Socket
 - Multi thread
 - Mutex
-- File
+- File stream
 
 ---
 #### 실행방법
