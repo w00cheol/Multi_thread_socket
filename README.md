@@ -59,7 +59,7 @@
 
 
 ---
-#### 프로세스 확인 (pstree 명령어)
+#### 프로세스 확인
 ---
 ![](https://user-images.githubusercontent.com/53927414/170966796-ef59223d-22a6-4b84-b672-f9178aa8e714.png)
 
@@ -112,8 +112,9 @@
 
 
 
-
+---
 #### 파일 입출력 및 저장
+---
 ![](https://user-images.githubusercontent.com/53927414/170967091-2122f36e-d60a-4b8e-add1-045edc02ad54.png)
 
 * server.txt 입니다.
