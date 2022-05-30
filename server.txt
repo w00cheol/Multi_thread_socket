@@ -1,0 +1,12 @@
+Notice: woo create room number 1
+Notice: alice create room number 2
+Notice: bob join room number 1
+Notice: trudy join room number 2
+Notice: room number 1 game start.
+Notice: room number 1 is  destroyed
+Notice: room number 2 game start.
+Notice: room number 2 is  destroyed
+woo exit.
+alice exit.
+bob exit.
+trudy exit.
